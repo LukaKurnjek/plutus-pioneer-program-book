@@ -1,2 +1,12 @@
-# plutus-pioneer-program
-The plutus pioneer program repository from IOHK (21.3.2022)
+# Plutus Pioneer Program
+
+This is the official Plutus pioneer program repository from IOHK.
+Instead of providing links to lectures a book is added to this repository:
+
+Plutus - Learning a smart contract language
+
+The book has the same structure as the lectures which can be found at IOHK page:
+https://github.com/input-output-hk/plutus-pioneer-program
+
+I prepared the book taking most of the contect directly from the lectures and
+added some additional contect for toppics I felt needed more insight.
