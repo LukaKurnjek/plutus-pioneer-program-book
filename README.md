@@ -13,4 +13,4 @@ In addition the oracle and uniswap examples are also added to the code and
 the book, which were presented in the 2nd iteration of the pioneer programm.
 
 I prepared the book taking most of the contect directly from the lectures and
-added some additional contect for toppics I felt needed more insight.
+added some minor content that I took from other Plutus learning resources.
