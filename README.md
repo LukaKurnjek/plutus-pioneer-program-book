@@ -1,11 +1,9 @@
 # Plutus Pioneer Program Book
 
-This repository contains a book based on the official Plutus Pioneer Program 
-lectures from IOG. The book in this branch covers the fourth iteration.
+This folder contains a book based on the official Plutus Pioneer Program lectures from IOG. 
 
 Plutus - Learning a smart contract language
 
-The book has the same structure as the IOHK lectures which can be found at 
-IOGs github page:<br>
-https://github.com/input-output-hk/plutus-pioneer-program/tree/fourth-iteration 
+The book in this branch covers the fourth iteration. It has the same structure as the lectures and contains code snippets and pictures of Plutus types that were presented in the lectures. 
+
 
