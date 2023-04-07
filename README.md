@@ -4,6 +4,10 @@ This folder contains a book based on the official Plutus Pioneer Program lecture
 
 Plutus - Learning a smart contract language
 
-The book in this branch covers the fourth iteration. It has the same structure as the lectures and contains code snippets and pictures of Plutus types that were presented in the lectures. 
+The book in this branch covers the fourth iteration. It has the same structure as the lectures and contains following things that were presented in the lectures: 
+- code snippets 
+- pictures of Plutus types 
+- terminal commands 
+- pictures of DApps and other software 
 
 
