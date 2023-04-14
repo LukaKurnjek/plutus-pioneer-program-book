@@ -10,4 +10,4 @@ The book in this branch covers the fourth iteration. It has the same structure a
 - terminal commands 
 - pictures of DApps and other software 
 
-
+The officital GitHub page of the Plutus Pioneer Program can be found [here](https://github.com/input-output-hk/plutus-pioneer-program/).
