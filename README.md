@@ -1,16 +1,15 @@
-# Plutus Pioneer Program
+# Plutus Pioneer Program Book
 
-This is the official Plutus pioneer program repository from IOHK.
-Instead of providing links to lectures a book is added to this repository:
+This folder contains a book based on the official Plutus Pioneer Program lectures from IOG. 
 
 Plutus - Learning a smart contract language
 
-The book has the same structure as the IOHK lectures (3rd iteration) which 
-can be found at IOHK github page:
-https://github.com/input-output-hk/plutus-pioneer-program
+The book in this branch covers the third iteration. It has the same structure as the lectures and contains following things that were presented in the lectures: 
+- code snippets 
+- pictures of Plutus types 
+- terminal commands 
+- pictures of DApps and other software 
 
-In addition the oracle and uniswap examples are also added to the code and 
-the book, which were presented in the 2nd iteration of the pioneer programm.
+In addition the oracle and uniswap examples are also added to the book and the code folder, which were presented in the second iteration of the pioneer programm. 
 
-I prepared the book taking most of the contect directly from the lectures and
-added some minor content that I took from other Plutus learning resources.
+The officital GitHub page of the Plutus Pioneer Program can be found [here](https://github.com/input-output-hk/plutus-pioneer-program/).
